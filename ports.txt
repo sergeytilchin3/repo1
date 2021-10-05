@@ -1,0 +1,515 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:80             0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    0.0.0.0:1123           0.0.0.0:0              LISTENING
+  PolicyAgent
+ [svchost.exe]
+  TCP    0.0.0.0:1433           0.0.0.0:0              LISTENING
+ [sqlservr.exe]
+  TCP    0.0.0.0:1947           0.0.0.0:0              LISTENING
+ [KService.exe]
+  TCP    0.0.0.0:2179           0.0.0.0:0              LISTENING
+ [vmms.exe]
+  TCP    0.0.0.0:2383           0.0.0.0:0              LISTENING
+ [msmdsrv.exe]
+  TCP    0.0.0.0:4369           0.0.0.0:0              LISTENING
+ [epmd.exe]
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:5672           0.0.0.0:0              LISTENING
+ [erl.exe]
+  TCP    0.0.0.0:7879           0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    0.0.0.0:8081           0.0.0.0:0              LISTENING
+ [macmnsvc.exe]
+  TCP    0.0.0.0:8085           0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    0.0.0.0:13000          0.0.0.0:0              LISTENING
+ [Ncr.GSEAdapter.Service.exe]
+  TCP    0.0.0.0:13001          0.0.0.0:0              LISTENING
+ [Ncr.GSEAdapter.Service.exe]
+  TCP    0.0.0.0:15672          0.0.0.0:0              LISTENING
+ [erl.exe]
+  TCP    0.0.0.0:41347          0.0.0.0:0              LISTENING
+ [Ncr.GSEAdapter.Service.exe]
+  TCP    0.0.0.0:41348          0.0.0.0:0              LISTENING
+ [Ncr.GSEAdapter.Service.exe]
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING
+ [lsass.exe]
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING
+  SessionEnv
+ [svchost.exe]
+  TCP    0.0.0.0:49669          0.0.0.0:0              LISTENING
+ [lsass.exe]
+  TCP    0.0.0.0:49671          0.0.0.0:0              LISTENING
+ [erl.exe]
+  TCP    0.0.0.0:49680          0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    0.0.0.0:55672          0.0.0.0:0              LISTENING
+ [erl.exe]
+  TCP    127.0.0.1:1054         127.0.0.1:1055         ESTABLISHED
+ [CiscoJabber.exe]
+  TCP    127.0.0.1:1055         127.0.0.1:1054         ESTABLISHED
+ [CiscoJabber.exe]
+  TCP    127.0.0.1:1434         0.0.0.0:0              LISTENING
+ [sqlservr.exe]
+  TCP    127.0.0.1:4369         127.0.0.1:49672        ESTABLISHED
+ [epmd.exe]
+  TCP    127.0.0.1:5939         0.0.0.0:0              LISTENING
+ [TeamViewer_Service.exe]
+  TCP    127.0.0.1:8000         0.0.0.0:0              LISTENING
+ [Retalix.Client.DMS.WinServiceHost.exe]
+  TCP    127.0.0.1:13000        127.0.0.1:24645        CLOSE_WAIT
+ [Ncr.GSEAdapter.Service.exe]
+  TCP    127.0.0.1:23406        0.0.0.0:0              LISTENING
+ [ServiceHub.TestWindowStoreHost.exe]
+  TCP    127.0.0.1:23406        127.0.0.1:23409        ESTABLISHED
+ [ServiceHub.TestWindowStoreHost.exe]
+  TCP    127.0.0.1:23409        127.0.0.1:23406        ESTABLISHED
+ [vstest.console.exe]
+  TCP    127.0.0.1:24645        127.0.0.1:13000        FIN_WAIT_2
+ [System]
+  TCP    127.0.0.1:24647        127.0.0.1:24646        TIME_WAIT
+  TCP    127.0.0.1:24653        127.0.0.1:24654        ESTABLISHED
+ Can not obtain ownership information
+  TCP    127.0.0.1:24654        127.0.0.1:24653        ESTABLISHED
+ Can not obtain ownership information
+  TCP    127.0.0.1:24655        127.0.0.1:24656        ESTABLISHED
+ Can not obtain ownership information
+  TCP    127.0.0.1:24656        127.0.0.1:24655        ESTABLISHED
+ Can not obtain ownership information
+  TCP    127.0.0.1:31013        0.0.0.0:0              LISTENING
+ [KService.exe]
+  TCP    127.0.0.1:31014        0.0.0.0:0              LISTENING
+ [KService.exe]
+  TCP    127.0.0.1:31015        0.0.0.0:0              LISTENING
+ [KService.exe]
+  TCP    127.0.0.1:32210        0.0.0.0:0              LISTENING
+ [SCNotification.exe]
+  TCP    127.0.0.1:49670        0.0.0.0:0              LISTENING
+ [jhi_service.exe]
+  TCP    127.0.0.1:49672        127.0.0.1:4369         ESTABLISHED
+ [erl.exe]
+  TCP    127.0.0.1:49674        0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    127.0.0.1:49674        127.0.0.1:50192        ESTABLISHED
+ Can not obtain ownership information
+  TCP    127.0.0.1:49674        127.0.0.1:50193        ESTABLISHED
+ Can not obtain ownership information
+  TCP    127.0.0.1:50192        127.0.0.1:49674        ESTABLISHED
+ [System]
+  TCP    127.0.0.1:50193        127.0.0.1:49674        ESTABLISHED
+ [System]
+  TCP    153.53.4.184:139       0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    153.53.4.184:1029      52.96.79.2:443         ESTABLISHED
+ [OUTLOOK.EXE]
+  TCP    153.53.4.184:1030      153.67.217.43:5060     ESTABLISHED
+ [CiscoJabber.exe]
+  TCP    153.53.4.184:1031      153.67.217.44:5060     ESTABLISHED
+ [CiscoJabber.exe]
+  TCP    153.53.4.184:1036      149.25.153.55:80       ESTABLISHED
+ [CcmExec.exe]
+  TCP    153.53.4.184:1070      149.25.154.182:8080    ESTABLISHED
+ [devenv.exe]
+  TCP    153.53.4.184:1072      149.25.154.182:8080    ESTABLISHED
+ [devenv.exe]
+  TCP    153.53.4.184:1075      149.25.154.182:8080    ESTABLISHED
+ [devenv.exe]
+  TCP    153.53.4.184:1133      3.130.29.187:443       ESTABLISHED
+ [CiscoJabber.exe]
+  TCP    153.53.4.184:3210      142.250.191.194:443    ESTABLISHED
+ [chrome.exe]
+  TCP    153.53.4.184:11633     52.96.79.162:443       ESTABLISHED
+ [SearchUI.exe]
+  TCP    153.53.4.184:12683     153.67.217.45:8443     CLOSE_WAIT
+ [CiscoJabber.exe]
+  TCP    153.53.4.184:16754     142.250.111.188:5228   ESTABLISHED
+ [chrome.exe]
+  TCP    153.53.4.184:20794     216.239.32.116:443     ESTABLISHED
+ [chrome.exe]
+  TCP    153.53.4.184:23439     64.4.54.254:443        ESTABLISHED
+ [PerfWatson2.exe]
+  TCP    153.53.4.184:23692     52.96.191.2:443        ESTABLISHED
+ [OUTLOOK.EXE]
+  TCP    153.53.4.184:23708     157.240.221.18:443     ESTABLISHED
+ [chrome.exe]
+  TCP    153.53.4.184:24577     216.239.32.116:443     ESTABLISHED
+ [chrome.exe]
+  TCP    153.53.4.184:24619     52.96.79.162:443       ESTABLISHED
+ [wbxcOIEx.exe]
+  TCP    153.53.4.184:24641     52.96.79.162:443       ESTABLISHED
+ [OUTLOOK.EXE]
+  TCP    153.53.4.184:24643     18.190.133.171:443     ESTABLISHED
+ [CiscoJabber.exe]
+  TCP    153.53.4.184:24650     18.214.235.221:54443   TIME_WAIT
+  TCP    153.53.4.184:29380     172.217.4.67:443       ESTABLISHED
+ [chrome.exe]
+  TCP    153.53.4.184:32070     52.96.163.34:443       ESTABLISHED
+ [OUTLOOK.EXE]
+  TCP    153.53.4.184:32348     157.240.221.11:443     ESTABLISHED
+ [chrome.exe]
+  TCP    153.53.4.184:49469     52.230.222.68:443      ESTABLISHED
+  WpnService
+ [svchost.exe]
+  TCP    172.17.248.129:139     0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    192.168.1.16:139       0.0.0.0:0              LISTENING
+ Can not obtain ownership information
+  TCP    192.168.1.16:1074      162.220.118.135:443    CLOSE_WAIT
+ [KService.exe]
+  TCP    192.168.1.16:1194      52.114.142.220:443     ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.1.16:2143      192.127.94.96:443      ESTABLISHED
+ [PulseSecureService.exe]
+  TCP    192.168.1.16:11677     52.114.133.164:443     ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.1.16:24605     157.240.221.60:443     ESTABLISHED
+ [WhatsApp.exe]
+  TCP    192.168.1.16:24606     52.114.159.225:443     ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.1.16:24611     52.114.128.9:443       ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.1.16:24630     52.114.76.34:443       ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.1.16:24631     52.114.76.34:443       ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.1.16:27985     162.220.118.135:443    CLOSE_WAIT
+ [KService.exe]
+  TCP    [::]:80                [::]:0                 LISTENING
+ Can not obtain ownership information
+  TCP    [::]:135               [::]:0                 LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               [::]:0                 LISTENING
+ Can not obtain ownership information
+  TCP    [::]:1123              [::]:0                 LISTENING
+  PolicyAgent
+ [svchost.exe]
+  TCP    [::]:1433              [::]:0                 LISTENING
+ [sqlservr.exe]
+  TCP    [::]:2179              [::]:0                 LISTENING
+ [vmms.exe]
+  TCP    [::]:2383              [::]:0                 LISTENING
+ [msmdsrv.exe]
+  TCP    [::]:5672              [::]:0                 LISTENING
+ [erl.exe]
+  TCP    [::]:7879              [::]:0                 LISTENING
+ Can not obtain ownership information
+  TCP    [::]:8081              [::]:0                 LISTENING
+ [macmnsvc.exe]
+  TCP    [::]:8085              [::]:0                 LISTENING
+ Can not obtain ownership information
+  TCP    [::]:49664             [::]:0                 LISTENING
+ [lsass.exe]
+  TCP    [::]:49665             [::]:0                 LISTENING
+ Can not obtain ownership information
+  TCP    [::]:49666             [::]:0                 LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49667             [::]:0                 LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49668             [::]:0                 LISTENING
+  SessionEnv
+ [svchost.exe]
+  TCP    [::]:49669             [::]:0                 LISTENING
+ [lsass.exe]
+  TCP    [::]:49680             [::]:0                 LISTENING
+ Can not obtain ownership information
+  TCP    [::1]:1434             [::]:0                 LISTENING
+ [sqlservr.exe]
+  TCP    [2a00:a040:18c:ea82:1507:1b5d:6178:ba09]:23732  [2a01:111:f100:a004::bfeb:8b60]:443  ESTABLISHED
+ [Teams.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:80  [fe80::4d7d:5161:150d:d013%11]:11614  ESTABLISHED
+ Can not obtain ownership information
+  TCP    [fe80::4d7d:5161:150d:d013%11]:80  [fe80::4d7d:5161:150d:d013%11]:11615  ESTABLISHED
+ Can not obtain ownership information
+  TCP    [fe80::4d7d:5161:150d:d013%11]:2212  [fe80::4d7d:5161:150d:d013%11]:5672  ESTABLISHED
+ [Retalix.Client.DMS.WinServiceHost.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:5672  [fe80::4d7d:5161:150d:d013%11]:2212  ESTABLISHED
+ [erl.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:5672  [fe80::4d7d:5161:150d:d013%11]:20131  ESTABLISHED
+ [erl.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:5672  [fe80::4d7d:5161:150d:d013%11]:20132  ESTABLISHED
+ [erl.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:5672  [fe80::4d7d:5161:150d:d013%11]:20133  ESTABLISHED
+ [erl.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:5672  [fe80::4d7d:5161:150d:d013%11]:20134  ESTABLISHED
+ [erl.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:5672  [fe80::4d7d:5161:150d:d013%11]:20135  ESTABLISHED
+ [erl.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:5672  [fe80::4d7d:5161:150d:d013%11]:20136  ESTABLISHED
+ [erl.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:5672  [fe80::4d7d:5161:150d:d013%11]:20137  ESTABLISHED
+ [erl.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:5672  [fe80::4d7d:5161:150d:d013%11]:20138  ESTABLISHED
+ [erl.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:5672  [fe80::4d7d:5161:150d:d013%11]:20139  ESTABLISHED
+ [erl.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:5672  [fe80::4d7d:5161:150d:d013%11]:20140  ESTABLISHED
+ [erl.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:11614  [fe80::4d7d:5161:150d:d013%11]:80  ESTABLISHED
+ [Retalix.Client.DMS.WinServiceHost.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:11615  [fe80::4d7d:5161:150d:d013%11]:80  ESTABLISHED
+ [Retalix.Client.DMS.WinServiceHost.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:20131  [fe80::4d7d:5161:150d:d013%11]:5672  ESTABLISHED
+ [w3wp.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:20132  [fe80::4d7d:5161:150d:d013%11]:5672  ESTABLISHED
+ [w3wp.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:20133  [fe80::4d7d:5161:150d:d013%11]:5672  ESTABLISHED
+ [w3wp.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:20134  [fe80::4d7d:5161:150d:d013%11]:5672  ESTABLISHED
+ [w3wp.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:20135  [fe80::4d7d:5161:150d:d013%11]:5672  ESTABLISHED
+ [w3wp.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:20136  [fe80::4d7d:5161:150d:d013%11]:5672  ESTABLISHED
+ [w3wp.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:20137  [fe80::4d7d:5161:150d:d013%11]:5672  ESTABLISHED
+ [w3wp.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:20138  [fe80::4d7d:5161:150d:d013%11]:5672  ESTABLISHED
+ [w3wp.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:20139  [fe80::4d7d:5161:150d:d013%11]:5672  ESTABLISHED
+ [w3wp.exe]
+  TCP    [fe80::4d7d:5161:150d:d013%11]:20140  [fe80::4d7d:5161:150d:d013%11]:5672  ESTABLISHED
+ [w3wp.exe]
+  UDP    0.0.0.0:53             *:*                    
+  SharedAccess
+ [svchost.exe]
+  UDP    0.0.0.0:123            *:*                    
+  W32Time
+ [svchost.exe]
+  UDP    0.0.0.0:500            *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:1947           *:*                    
+ [KService.exe]
+  UDP    0.0.0.0:4500           *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:5050           *:*                    
+  CDPSvc
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5355           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:8976           *:*                    
+ [devenv.exe]
+  UDP    0.0.0.0:9771           *:*                    
+ [NomadBranch.exe]
+  UDP    0.0.0.0:49666          *:*                    
+ [TeamViewer_Service.exe]
+  UDP    0.0.0.0:51201          *:*                    
+ [Teams.exe]
+  UDP    0.0.0.0:53157          *:*                    
+ [Teams.exe]
+  UDP    0.0.0.0:60845          *:*                    
+  SharedAccess
+ [svchost.exe]
+  UDP    0.0.0.0:60846          *:*                    
+  SharedAccess
+ [svchost.exe]
+  UDP    0.0.0.0:64528          *:*                    
+ [PulseSecureService.exe]
+  UDP    0.0.0.0:64529          *:*                    
+ [PulseSecureService.exe]
+  UDP    127.0.0.1:1900         *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:5353         *:*                    
+ [TeamViewer_Service.exe]
+  UDP    127.0.0.1:51973        *:*                    
+ [wmiprvse.exe]
+  UDP    127.0.0.1:52882        *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:58157        *:*                    
+ [CcmExec.exe]
+  UDP    127.0.0.1:61233        *:*                    
+ [ReportingServicesService.exe]
+  UDP    127.0.0.1:61412        *:*                    
+ [OUTLOOK.EXE]
+  UDP    127.0.0.1:64412        *:*                    
+  NlaSvc
+ [svchost.exe]
+  UDP    127.0.0.1:65262        *:*                    
+ [lsass.exe]
+  UDP    153.53.4.184:137       *:*                    
+ Can not obtain ownership information
+  UDP    153.53.4.184:138       *:*                    
+ Can not obtain ownership information
+  UDP    153.53.4.184:1900      *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    153.53.4.184:2177      *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    153.53.4.184:51341     *:*                    
+ [NomadBranch.exe]
+  UDP    153.53.4.184:52880     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    172.17.248.129:67      *:*                    
+  SharedAccess
+ [svchost.exe]
+  UDP    172.17.248.129:68      *:*                    
+  SharedAccess
+ [svchost.exe]
+  UDP    172.17.248.129:137     *:*                    
+ Can not obtain ownership information
+  UDP    172.17.248.129:138     *:*                    
+ Can not obtain ownership information
+  UDP    172.17.248.129:1900    *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    172.17.248.129:2177    *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    172.17.248.129:52883   *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    172.17.248.129:60848   *:*                    
+ [NomadBranch.exe]
+  UDP    192.168.1.16:137       *:*                    
+ Can not obtain ownership information
+  UDP    192.168.1.16:138       *:*                    
+ Can not obtain ownership information
+  UDP    192.168.1.16:1900      *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.1.16:2177      *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    192.168.1.16:52881     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.1.16:54487     *:*                    
+ [PulseSecureService.exe]
+  UDP    192.168.1.16:58731     *:*                    
+ [NomadBranch.exe]
+  UDP    [::]:123               *:*                    
+  W32Time
+ [svchost.exe]
+  UDP    [::]:500               *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:4500              *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5355              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:9771              *:*                    
+ [NomadBranch.exe]
+  UDP    [::]:49667             *:*                    
+ [TeamViewer_Service.exe]
+  UDP    [::]:51195             *:*                    
+ [NomadBranch.exe]
+  UDP    [::]:51201             *:*                    
+ [Teams.exe]
+  UDP    [::]:53157             *:*                    
+ [Teams.exe]
+  UDP    [::]:60847             *:*                    
+  SharedAccess
+ [svchost.exe]
+  UDP    [::1]:1900             *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:52878            *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [2a00:a040:18c:ea82:1507:1b5d:6178:ba09]:2177  *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    [2a00:a040:18c:ea82:3648:edff:fe63:3ec4]:2177  *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    [2a00:a040:18c:ea82:4d7d:5161:150d:d013]:2177  *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    [fe80::4d7d:5161:150d:d013%11]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::4d7d:5161:150d:d013%11]:2177  *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    [fe80::4d7d:5161:150d:d013%11]:52877  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::5869:2515:92bc:a3c%26]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::5869:2515:92bc:a3c%26]:2177  *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    [fe80::5869:2515:92bc:a3c%26]:52879  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::d421:2043:cd98:7125%21]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::d421:2043:cd98:7125%21]:2177  *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    [fe80::d421:2043:cd98:7125%21]:52876  *:*                    
+  SSDPSRV
+ [svchost.exe]
