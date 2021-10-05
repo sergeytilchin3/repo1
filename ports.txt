@@ -1,4 +1,4 @@
-secondary1
+secondary2
 Active Connections
 
   Proto  Local Address          Foreign Address        State
