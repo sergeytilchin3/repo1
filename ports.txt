@@ -1,7 +1,7 @@
 secondary2
-local
+local2
 Active Connections
-kaka
+kaka2
   Proto  Local Address          Foreign Address        State
   TCP    0.0.0.0:80             0.0.0.0:0              LISTENING
  Can not obtain ownership information
